@@ -1,4 +1,4 @@
-# 🖼️ Image Captioning Model
+# 🖼️ Image Captioning Model.
 
 Welcome to the **Image Captioning Model** project! This project focuses on generating descriptive captions for images using a combination of image feature extraction and sequence processing. The model is designed to provide accurate and meaningful descriptions for various images, demonstrating its capability to understand and describe visual content effectively.
 
